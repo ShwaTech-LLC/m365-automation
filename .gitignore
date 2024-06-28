@@ -1,0 +1,8 @@
+# Standard ignores
+
+bin/*
+obj/*
+ignore/*
+*.exe
+*.bin
+*.o
