@@ -6,7 +6,14 @@ Here is the directory of current examples:
 ## Monitor Email for Important Contacts
 * Power Automate Flow
 
-|Location|Type|
+Features:
+1. Monitors your mailbox for incoming email
+2. Notifies a target mailbox based on From email domain
+3. Allows you to specify exclusions before processing
+4. Includes the original email body in the notification
+5. Composes a custom HTML email body header for the notification recipient
+
+|Download Location|Type|
 |-|-|
 |[/flow/MonitorEmailForImportantContacts.zip](https://github.com/ShwaTech-LLC/m365-automation/blob/main/flow/MonitorEmailForImportantContacts.zip)|Power Automate Flow|
 
